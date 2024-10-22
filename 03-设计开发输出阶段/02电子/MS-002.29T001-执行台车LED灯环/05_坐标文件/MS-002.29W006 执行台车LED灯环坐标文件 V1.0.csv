@@ -1,0 +1,44 @@
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       08/10/22,,,,,,,
+Time:       15:28,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+D1,XL-2835UYC-02,TopLayer,LED_2835,-7.6807,82.7084,5.625,Typical BLUE SiC LED
+R11,130¦¸/0805,TopLayer,0805_R,-42.318,67.8693,213.75,ÌùÆ¬µç×è
+P2,PHB-4,BottomLayer,PHB-4Y_-_duplicate,-8.5519,81.2822,5.625,
+P1,PHB-4,BottomLayer,PHB-4Y_-_duplicate,-81.8669,7.9677,84.375,
+D9,XL-2835BGWC-02,TopLayer,LED_2835,-7.2997,79.254,5.625,Typical BLUE SiC LED
+R16,130¦¸/0805,TopLayer,0805_R,-79.1245,12.9557,78.75,ÌùÆ¬µç×è
+R15,130¦¸/0805,TopLayer,0805_R,-78.0761,17.8291,258.75,ÌùÆ¬µç×è
+R14,130¦¸/0805,TopLayer,0805_R,-67.9723,42.4103,61.875,ÌùÆ¬µç×è
+R8,130¦¸/0805,TopLayer,0805_R,-82.1979,13.5146,78.75,ÌùÆ¬µç×è
+R7,130¦¸/0805,TopLayer,0805_R,-81.1311,18.5438,258.75,ÌùÆ¬µç×è
+R6,130¦¸/0805,TopLayer,0805_R,-70.8425,43.9344,61.875,ÌùÆ¬µç×è
+D16,XL-2835BGWC-02,TopLayer,LED_2835,-79.5842,7.6299,264.375,Typical BLUE SiC LED
+D15,XL-2835BGWC-02,TopLayer,LED_2835,-76.6289,23.1274,73.125,Typical BLUE SiC LED
+D14,XL-2835BGWC-02,TopLayer,LED_2835,-70.4366,37.7008,241.875,Typical BLUE SiC LED
+D8,XL-2835UYC-02,TopLayer,LED_2835,-83.2752,7.8793,264.375,Typical BLUE SiC LED
+D7,XL-2835UYC-02,TopLayer,LED_2835,-79.9055,24.1688,73.125,Typical BLUE SiC LED
+D6,XL-2835UYC-02,TopLayer,LED_2835,-73.6112,39.367,241.875,Typical BLUE SiC LED
+R13,130¦¸/0805,TopLayer,0805_R,-58.0165,55.1151,45,ÌùÆ¬µç×è
+R12,130¦¸/0805,TopLayer,0805_R,-46.4805,65.0998,33.75,ÌùÆ¬µç×è
+R10,130¦¸/0805,TopLayer,0805_R,-17.7783,77.7205,11.25,ÌùÆ¬µç×è
+R9,130¦¸/0805,TopLayer,0805_R,-12.4614,78.7758,185.625,ÌùÆ¬µç×è
+D13,XL-2835BGWC-02,TopLayer,LED_2835,-61.6927,50.6581,230.625,Typical BLUE SiC LED
+D12,XL-2835BGWC-02,TopLayer,LED_2835,-50.6814,61.5474,219.375,Typical BLUE SiC LED
+D11,XL-2835BGWC-02,TopLayer,LED_2835,-37.7414,70.2076,28.125,Typical BLUE SiC LED
+D10,XL-2835BGWC-02,TopLayer,LED_2835,-23.2784,76.1267,196.875,Typical BLUE SiC LED
+R5,130¦¸/0805,TopLayer,0805_R,-60.2517,57.1979,45,ÌùÆ¬µç×è
+R4,130¦¸/0805,TopLayer,0805_R,-48.106,67.5889,33.75,ÌùÆ¬µç×è
+R3,130¦¸/0805,TopLayer,0805_R,-43.9912,70.3321,213.75,ÌùÆ¬µç×è
+R2,130¦¸/0805,TopLayer,0805_R,-18.4641,80.8955,11.25,ÌùÆ¬µç×è
+R1,130¦¸/0805,TopLayer,0805_R,-12.7662,81.773,185.625,ÌùÆ¬µç×è
+D5,XL-2835UYC-02,TopLayer,LED_2835,-64.4503,52.9238,230.625,Typical BLUE SiC LED
+D4,XL-2835UYC-02,TopLayer,LED_2835,-52.9187,64.3851,219.375,Typical BLUE SiC LED
+D3,XL-2835UYC-02,TopLayer,LED_2835,-39.4178,73.3572,28.125,Typical BLUE SiC LED
+D2,XL-2835UYC-02,TopLayer,LED_2835,-24.3752,79.5017,196.875,Typical BLUE SiC LED

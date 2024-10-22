@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+Z:\05_各专业组\电子设计组\3. 产品、项目\MS-002(骨科手术导航定位系统)\电子归档\MS-002.25T001-末端连接板\01_原理图\原理图&PCB\Project Outputs for MS-002.25.1.0\Pick Place for MS-002.25T003.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/11/22
+Time:       17:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J1","8PIN","TopLayer","M8_8-coreRP","7.6282","12.4460","90",""
+"J2","7PIN","TopLayer","1.25T-5P","7.7540","4.0640","360",""
